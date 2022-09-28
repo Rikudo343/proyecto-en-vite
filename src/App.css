@@ -1,0 +1,15 @@
+#root {
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+
+.card {
+  padding: 2em;
+}
+.foot{
+  display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
